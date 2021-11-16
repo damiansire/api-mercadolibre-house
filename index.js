@@ -36,7 +36,6 @@ app.get("/houses/today", async function (req, res) {
 
 app.get("/houses/img/:id", async function (req, res) {
   try {
-    debugger;
     const client = new Client(config);
     client.connect();
     const viviendaId = req.params.id;
