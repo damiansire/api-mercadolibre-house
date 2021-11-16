@@ -25,6 +25,24 @@ app.get("/houses/today", async function (req, res) {
     client.connect();
     const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
     const { rows } = await client.query(getElementQuery);
+
+    const getImageQuery = ` select * from public.imagenes as i where i.viviendaid = 'https://apartamento.mercadolibre.com.uy/MLU-604088353-alquiler-apartamento-punta-carretas-reciclado-amplio-1-dorm-_JM'`;
+
+    res.send(rows);
+  } catch {
+    res.send([]);
+  }
+});
+
+app.get("/houses/img/:id", async function (req, res) {
+  try {
+    debugger;
+    const client = new Client(config);
+    client.connect();
+    const viviendaId = req.params.id;
+    //Ojo con la inyeccion sql
+    const getImagesQuery = `select * from public.imagenes i where i.viviendaid = '${viviendaId}'`;
+    const { rows } = await client.query(getImagesQuery);
     res.send(rows);
   } catch {
     res.send([]);
