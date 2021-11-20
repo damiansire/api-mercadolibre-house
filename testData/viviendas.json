@@ -7,10 +7,9 @@
         "link": "https://apartamento.mercadolibre.com.uy/MLU-604128144-alquiler-apartamento-1-dormitorio-cordon-sur-montevideo-e-_JM"
       },
       "location": {
-        "location": "Cassinoni 1200, Parque Rodó, Montevideo",
-        "calle": null,
-        "barrio": null,
-        "ciudad": null
+        "calle": "Cassinoni 1200",
+        "barrio": "Parque Rodó",
+        "ciudad": "Montevideo"
       },
       "price": {
         "gastoscomunes": "1300 UYU",
