@@ -1,0 +1,5235 @@
+{
+  "viviendas": [
+    {
+      "id": "MLU604128144",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Cordón Sur Montevideo E",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604128144-alquiler-apartamento-1-dormitorio-cordon-sur-montevideo-e-_JM"
+      },
+      "location": {
+        "location": "Cassinoni 1200, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1300 UYU",
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "43 m²",
+        "superficie": "43 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604089118",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Cordón Sur Montevideo E",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604089118-alquiler-apartamento-1-dormitorio-cordon-sur-montevideo-e-_JM"
+      },
+      "location": {
+        "location": "Cassinoni 1200, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1300 UYU",
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "43 m²",
+        "superficie": "43 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "3"
+      }
+    },
+    {
+      "id": "MLU604254556",
+      "principal": {
+        "title": "Dueño Alquila Apto A Estrenar A Pasos De 3 Cruces, Bajos Gc",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604254556-dueno-alquila-apto-a-estrenar-a-pasos-de-3-cruces-bajos-gc-_JM"
+      },
+      "location": {
+        "location": "8 De Octubre 2285, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "22.000"
+      },
+      "attributes": {
+        "superficietotal": "49.5 m²",
+        "superficie": "37.5 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604197816",
+      "principal": {
+        "title": "Alquiler Apto Jacinto Vera 2 Dormitorios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604197816-alquiler-apto-jacinto-vera-2-dormitorios-_JM"
+      },
+      "location": {
+        "location": "Rambla Republica Mexico 5901, Jacinto Vera, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "43 m²",
+        "superficie": "43 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604202982",
+      "principal": {
+        "title": "Apto. 2 Dormitorios Frente Al Mar.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202982-apto-2-dormitorios-frente-al-mar-_JM"
+      },
+      "location": {
+        "location": "Rambla Gandhi 639, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "25.000"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604241592",
+      "principal": {
+        "title": "Apartamento Duplex 1 Dormitorio Muy Cómodo Con Cochera Doble",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604241592-apartamento-duplex-1-dormitorio-muy-comodo-con-cochera-doble-_JM"
+      },
+      "location": {
+        "location": "Joaquin Requena 1670, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3500 UYU",
+        "pricecurrency": "$",
+        "price": "23.000"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "3 años",
+        "orientacion": "Oeste",
+        "cocheras": "1",
+        "numerodepisodellaunidad": "8",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604175086",
+      "principal": {
+        "title": "3 Dorm. Amplios De Frente Al Mar, Sobre Rbla. Rep. Argentina",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175086-3-dorm-amplios-de-frente-al-mar-sobre-rbla-rep-argentina-_JM"
+      },
+      "location": {
+        "location": "Paraguay 1011, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4550 UYU",
+        "pricecurrency": "$",
+        "price": "30.000"
+      },
+      "attributes": {
+        "superficietotal": "80 m²",
+        "superficie": "80 m²",
+        "baños": "1",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "40 años",
+        "orientacion": "Este",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604175083",
+      "principal": {
+        "title": "Excelente, Reciclado A Nuevo 2 Dorm. Al Frente, Balcón, Etc.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175083-excelente-reciclado-a-nuevo-2-dorm-al-frente-balcon-etc-_JM"
+      },
+      "location": {
+        "location": "Joaquin Requena 2789, Jacinto Vera, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1000 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "63 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "50 años",
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "3"
+      }
+    },
+    {
+      "id": "MLU604116527",
+      "principal": {
+        "title": "Yaguaron/ Mercedes Excelente Entorno Buses Comercios Terraza",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116527-yaguaron-mercedes-excelente-entorno-buses-comercios-terraza-_JM"
+      },
+      "location": {
+        "location": "Yaguaron 1547, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "$",
+        "price": "25.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "65 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "50 años",
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "2",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604248101",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Pocitos Montevideo. N",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604248101-alquiler-apartamento-1-dormitorio-pocitos-montevideo-n-_JM"
+      },
+      "location": {
+        "location": "Av Luis Ponce 1300, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4500 UYU",
+        "pricecurrency": "$",
+        "price": "25.500"
+      },
+      "attributes": {
+        "superficietotal": "48 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+        "orientacion": "Este",
+        "cocheras": "1",
+        "numerodepisodellaunidad": "5",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "2",
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604222257",
+      "principal": {
+        "title": "Hermoso Apartamento De 3 Dormitorios En Excelente Ubicacion",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222257-hermoso-apartamento-de-3-dormitorios-en-excelente-ubicacion-_JM"
+      },
+      "location": {
+        "location": "Avenida Millan 3919, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "28.000"
+      },
+      "attributes": {
+        "superficietotal": "75 m²",
+        "superficie": "75 m²",
+        "baños": "1",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "50 años",
+        "orientacion": "Este",
+        "cocheras": "1",
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "1",
+        "cantidaddepisos": "3"
+      }
+    },
+    {
+      "id": "MLU604228765",
+      "principal": {
+        "title": "1 Dormitorio Con Placard, Altillo, Azotea Con Parrillero...",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604228765-1-dormitorio-con-placard-altillo-azotea-con-parrillero-_JM"
+      },
+      "location": {
+        "location": "Zona De Rondeau Y César Diaz Sn, Aguada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "17.500"
+      },
+      "attributes": {
+        "superficietotal": "42 m²",
+        "superficie": "42 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604173845",
+      "principal": {
+        "title": "Alquiler De Apartamentos De 1 Dormitorio En 3 Cruces.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173845-alquiler-de-apartamentos-de-1-dormitorio-en-3-cruces-_JM"
+      },
+      "location": {
+        "location": "Cassinoni 1682, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5000 UYU",
+        "pricecurrency": "$",
+        "price": "19.000"
+      },
+      "attributes": {
+        "superficietotal": "32 m²",
+        "superficie": "32 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "cocheras": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604103471",
+      "principal": {
+        "title": "Impecable Super Luminoso 1er Piso Por Escalera",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103471-impecable-super-luminoso-1er-piso-por-escalera-_JM"
+      },
+      "location": {
+        "location": "Emilio Reus 2444, Villa Muñoz, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1500 UYU",
+        "pricecurrency": "$",
+        "price": "18.800"
+      },
+      "attributes": {
+        "superficietotal": "42 m²",
+        "superficie": "42 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "1",
+        "cantidaddepisos": "2"
+      }
+    },
+    {
+      "id": "MLU604147659",
+      "principal": {
+        "title": "Apartamento De Tres Dormitorios En Ciudad Vieja",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604147659-apartamento-de-tres-dormitorios-en-ciudad-vieja-_JM"
+      },
+      "location": {
+        "location": "Reconquista Sn, Ciudad Vieja, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "28.000"
+      },
+      "attributes": {
+        "superficietotal": "63 m²",
+        "superficie": "63 m²",
+        "baños": "1",
+        "dormitorios": "3"
+      }
+    },
+    {
+      "id": "MLU604175627",
+      "principal": {
+        "title": "Piso 22 70mts Con Muebles Y Reciclado!! Paraguay Casi Rambla",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175627-piso-22-70mts-con-muebles-y-reciclado-paraguay-casi-rambla-_JM"
+      },
+      "location": {
+        "location": "Paraguay Y Carlos Gardel 0000, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5000 UYU",
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "30 años",
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "22",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604148614",
+      "principal": {
+        "title": "Dueño Alquila, Apartamento 1 Dormitorio Buceo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604148614-dueno-alquila-apartamento-1-dormitorio-buceo-_JM"
+      },
+      "location": {
+        "location": "Avenida Italia 3951, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "17.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604222357",
+      "principal": {
+        "title": "Ka Apartamento Amplio, 1 Dorm, Terraza, Garage, Facultad",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222357-ka-apartamento-amplio-1-dorm-terraza-garage-facultad-_JM"
+      },
+      "location": {
+        "location": "Gonzalo Ramírez 4500, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4500 UYU",
+        "pricecurrency": "$",
+        "price": "24.500"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "cocheras": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604235251",
+      "principal": {
+        "title": "Excelente Apt, Muy Luminoso , Bajos Gastos Comunes",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604235251-excelente-apt-muy-luminoso-bajos-gastos-comunes-_JM"
+      },
+      "location": {
+        "location": "Centenario Y Rep Dominicana 2910, Larrañaga, Montevideo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2000 UYU",
+        "pricecurrency": "$",
+        "price": "19.000"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "45 años",
+        "orientacion": "Sur",
+
+        "numerodepisodellaunidad": "6",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "8"
+      }
+    },
+    {
+      "id": "MLU604169125",
+      "principal": {
+        "title": "Monoambiente Impecable, Exelente Ubicación",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604169125-monoambiente-impecable-exelente-ubicacion-_JM"
+      },
+      "location": {
+        "location": "Andes 1358, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "14.500"
+      },
+      "attributes": {
+        "superficietotal": "20 m²",
+        "superficie": "20 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Oeste",
+
+        "admitemascotas": "No",
+        "apartamentosporpiso": "1"
+      }
+    },
+    {
+      "id": "MLU604129486",
+      "principal": {
+        "title": "Alquilo Apartamento 2 Dormitorio Garage Balcón Mdeo Shooping",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129486-alquilo-apartamento-2-dormitorio-garage-balcon-mdeo-shooping-_JM"
+      },
+      "location": {
+        "location": "Av. 26 De Marzo 3450, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "7500 UYU",
+        "pricecurrency": "$",
+        "price": "35.000"
+      },
+      "attributes": {
+        "superficietotal": "75 m²",
+        "superficie": "70 m²",
+        "baños": "2",
+        "dormitorios": "2",
+
+        "cocheras": "1",
+
+        "admitemascotas": "No",
+
+        "cantidaddepisos": "12"
+      }
+    },
+    {
+      "id": "MLU604215803",
+      "principal": {
+        "title": "3 Dorm Piso 4 80mts Bv Batlle Y Ordonez Y Monte Caseros",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215803-3-dorm-piso-4-80mts-bv-batlle-y-ordonez-y-monte-caseros-_JM"
+      },
+      "location": {
+        "location": "Jose Batlle Y Ordoñez Y Monte Caseros 0000, Unión, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "6100 UYU",
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "80 m²",
+        "superficie": "77 m²",
+        "baños": "1",
+        "dormitorios": "3",
+
+        "disposicion": "Lateral",
+        "antiguedad": "3 años",
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "4",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604175582",
+      "principal": {
+        "title": "3 Dorm Piso 4 80mts Bv Batlle Y Ordonez Y Monte Caseros",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175582-3-dorm-piso-4-80mts-bv-batlle-y-ordonez-y-monte-caseros-_JM"
+      },
+      "location": {
+        "location": "Jose Batlle Y Ordoñez Y Monte Caseros 0000, La Blanqueada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "6100 UYU",
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "80 m²",
+        "superficie": "77 m²",
+        "baños": "1",
+        "dormitorios": "3",
+
+        "disposicion": "Lateral",
+        "antiguedad": "3 años",
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "4",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604167318",
+      "principal": {
+        "title": "Alquiler Apartamento Pocitos 2 Dormitorios Disponible 1/12",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604167318-alquiler-apartamento-pocitos-2-dormitorios-disponible-112-_JM"
+      },
+      "location": {
+        "location": "Guayaqui 3330, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "31.000"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "cocheras": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604150202",
+      "principal": {
+        "title": "Alquiler En La Teja",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604150202-alquiler-en-la-teja-_JM"
+      },
+      "location": {
+        "location": "Fraternidad 4010, La Teja, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "15.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604172356",
+      "principal": {
+        "title": "Trato Directo Con Dueño, Próximo Al Estadio Centenario",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604172356-trato-directo-con-dueno-proximo-al-estadio-centenario-_JM"
+      },
+      "location": {
+        "location": "Julio Cesar Grauert 33, Parque Batlle, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "29.500"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "2"
+      }
+    },
+    {
+      "id": "MLU604166966",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Centro Montevideo. N",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604166966-alquiler-apartamento-1-dormitorio-centro-montevideo-n-_JM"
+      },
+      "location": {
+        "location": "Tacuarembó 1500, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2100 UYU",
+        "pricecurrency": "$",
+        "price": "17.500"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "25 años",
+        "orientacion": "Este",
+
+        "numerodepisodellaunidad": "3",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "7"
+      }
+    },
+    {
+      "id": "MLU604175609",
+      "principal": {
+        "title": "Apartamento De Dos Dormitorios En La Banquedada",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175609-apartamento-de-dos-dormitorios-en-la-banquedada-_JM"
+      },
+      "location": {
+        "location": "Jaime Cibils 2788, La Blanqueada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2100 UYU",
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Interno",
+        "antiguedad": "60 años",
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "202",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "5",
+        "cantidaddepisos": "4"
+      }
+    },
+    {
+      "id": "MLU604235303",
+      "principal": {
+        "title": "Frente A Rambla Con Muebles! Equipado! Y Con Losa Radiante",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604235303-frente-a-rambla-con-muebles-equipado-y-con-losa-radiante-_JM"
+      },
+      "location": {
+        "location": "Arrascaeta 1333, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "6500 UYU",
+        "pricecurrency": "$",
+        "price": "19.000"
+      },
+      "attributes": {
+        "superficietotal": "34 m²",
+        "superficie": "32 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Lateral",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604134844",
+      "principal": {
+        "title": "Dueño Alquila Apto,frente/soleado,vista.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604134844-dueno-alquila-aptofrentesoleadovista-_JM"
+      },
+      "location": {
+        "location": "Próx. Bvar.artigas Y Garibaldi 0, La Blanqueada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1700 UYU",
+        "pricecurrency": "$",
+        "price": "25.000"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "2",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "2",
+        "cantidaddepisos": "2"
+      }
+    },
+    {
+      "id": "MLU604180026",
+      "principal": {
+        "title": "Apartamento 3 Dorm. Próximo A Nuevo Centro Shopping",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604180026-apartamento-3-dorm-proximo-a-nuevo-centro-shopping-_JM"
+      },
+      "location": {
+        "location": "Gualeguay 3386, Brazo Oriental, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "24.500"
+      },
+      "attributes": {
+        "superficietotal": "65 m²",
+        "superficie": "65 m²",
+        "baños": "1",
+        "dormitorios": "3"
+      }
+    },
+    {
+      "id": "MLU604089440",
+      "principal": {
+        "title": "Apto.2 Dorm ,frente,soleado/trato C/dueño",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604089440-apto2-dorm-frentesoleadotrato-cdueno-_JM"
+      },
+      "location": {
+        "location": "Proximo Palacio Peñarol 0, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2700 UYU",
+        "pricecurrency": "$",
+        "price": "24.000"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "4",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "4"
+      }
+    },
+    {
+      "id": "MLU604156775",
+      "principal": {
+        "title": "Todo Al Frente! Muy Luminoso ! Impecable Estado Reciclado",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156775-todo-al-frente-muy-luminoso-impecable-estado-reciclado-_JM"
+      },
+      "location": {
+        "location": "26 De Marzo 1199, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "7000 UYU",
+        "pricecurrency": "$",
+        "price": "28.000"
+      },
+      "attributes": {
+        "superficietotal": "65 m²",
+        "superficie": "65 m²",
+        "baños": "2",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Norte",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604169366",
+      "principal": {
+        "title": "Alquilo Dpto En Planta Baja Con Patio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604169366-alquilo-dpto-en-planta-baja-con-patio-_JM"
+      },
+      "location": {
+        "location": "Liber Arce 3327, Villa Dolores, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604175427",
+      "principal": {
+        "title": "Apartamento Alquiler Cordón Montevideo Imas.uy Lc (ref: Ims-8159)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175427-apartamento-alquiler-cordon-montevideo-imasuy-lc-ref-ims-8159-_JM"
+      },
+      "location": {
+        "location": "Yaguaron 1400, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "$",
+        "price": "21.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "67 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "2",
+        "tipo": "Ph",
+
+        "orientacion": "Este"
+      }
+    },
+    {
+      "id": "MLU604156535",
+      "principal": {
+        "title": "Apartamento Alquiler Centro Montevideo Imas.uy Lc * (ref: Ims-8156)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156535-apartamento-alquiler-centro-montevideo-imasuy-lc-ref-ims-8156-_JM"
+      },
+      "location": {
+        "location": "Yaguaron 1400, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "$",
+        "price": "21.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "67 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "2",
+        "tipo": "Ph",
+
+        "orientacion": "Este"
+      }
+    },
+    {
+      "id": "MLU604189528",
+      "principal": {
+        "title": "Alquiler Apartamento Pocitos Montevideo Imas.uy N * (ref: Ims-8150)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604189528-alquiler-apartamento-pocitos-montevideo-imasuy-n-ref-ims-8150-_JM"
+      },
+      "location": {
+        "location": "Av. Brasil 2700, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4000 UYU",
+        "pricecurrency": "$",
+        "price": "24.500"
+      },
+      "attributes": {
+        "superficietotal": "47 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "2",
+        "tipo": "Ph"
+      }
+    },
+    {
+      "id": "MLU604175412",
+      "principal": {
+        "title": "Apartamento Alquiler Centro Montevideo Imas.uy A (ref: Ims-8158)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175412-apartamento-alquiler-centro-montevideo-imasuy-a-ref-ims-8158-_JM"
+      },
+      "location": {
+        "location": "Paysandu 1700, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1000 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "39 m²",
+        "superficie": "32 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "1",
+        "tipo": "Ph",
+
+        "antiguedad": "1953 años"
+      }
+    },
+    {
+      "id": "MLU604209240",
+      "principal": {
+        "title": "Apartamento Alquiler Montevideo Imas.uy A (ref: Ims-8157)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209240-apartamento-alquiler-montevideo-imasuy-a-ref-ims-8157-_JM"
+      },
+      "location": {
+        "location": "Paysandu 1700, Montevideo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1000 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "39 m²",
+        "superficie": "32 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "1",
+        "tipo": "Ph",
+
+        "antiguedad": "1953 años"
+      }
+    },
+    {
+      "id": "MLU604197598",
+      "principal": {
+        "title": "Apartamento Alquiler Cordon Montevideo Imas.uy A * (ref: Ims-8155)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604197598-apartamento-alquiler-cordon-montevideo-imasuy-a-ref-ims-8155-_JM"
+      },
+      "location": {
+        "location": "Paysandu 1700, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1000 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "39 m²",
+        "superficie": "32 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "1",
+        "tipo": "Ph",
+
+        "antiguedad": "1953 años"
+      }
+    },
+    {
+      "id": "MLU604169241",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio En Parque Rodo, Gc 1000",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604169241-alquiler-apartamento-1-dormitorio-en-parque-rodo-gc-1000-_JM"
+      },
+      "location": {
+        "location": "Dr. Emilio Frugoni 1025, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1000 UYU",
+        "pricecurrency": "$",
+        "price": "15.000"
+      },
+      "attributes": {
+        "superficietotal": "25 m²",
+        "superficie": "25 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente"
+      }
+    },
+    {
+      "id": "MLU604135877",
+      "principal": {
+        "title": "Apartamento Alquiler Pocitos Montevideo Imas.uy F * (ref: Ims-7854)",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604135877-apartamento-alquiler-pocitos-montevideo-imasuy-f-ref-ims-7854-_JM"
+      },
+      "location": {
+        "location": "Av. Brasil 3100, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3000 UYU",
+        "pricecurrency": "$",
+        "price": "19.500"
+      },
+      "attributes": {
+        "superficietotal": "35 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "1",
+        "tipo": "Ph",
+
+        "orientacion": "Sur"
+      }
+    },
+    {
+      "id": "MLU604202935",
+      "principal": {
+        "title": "A 4 Rambla Monoambiente Amoblado Al Frente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202935-a-4-rambla-monoambiente-amoblado-al-frente-_JM"
+      },
+      "location": {
+        "location": "Pedro Fco.berro, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3200 UYU",
+        "pricecurrency": "$",
+        "price": "17.000"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": null,
+        "ambientes": "1",
+        "tipo": "Loft",
+
+        "antiguedad": "21 años",
+
+        "numerodepisodellaunidad": "4"
+      }
+    },
+    {
+      "id": "MLU604166869",
+      "principal": {
+        "title": "Alquilo Apartamento De 1 Dormitorio Con Garaje, Barbacoa, Gimnasio, Punta Carretas",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604166869-alquilo-apartamento-de-1-dormitorio-con-garaje-barbacoa-gimnasio-punta-carretas-_JM"
+      },
+      "location": {
+        "location": "Unidad 401 - Garage Incluido, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "U$S",
+        "price": "1.000"
+      },
+      "attributes": {
+        "superficietotal": "48 m²",
+        "superficie": "39 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años"
+      }
+    },
+    {
+      "id": "MLU604129104",
+      "principal": {
+        "title": "Alquilo Apartamento De 1 Dormitorio Con Garaje, Barbacoa, Gimnasio, Punta Carretas",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129104-alquilo-apartamento-de-1-dormitorio-con-garaje-barbacoa-gimnasio-punta-carretas-_JM"
+      },
+      "location": {
+        "location": "Unidad 401 - Garage Incluido, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "U$S",
+        "price": "1.000"
+      },
+      "attributes": {
+        "superficietotal": "48 m²",
+        "superficie": "39 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años"
+      }
+    },
+    {
+      "id": "MLU604166868",
+      "principal": {
+        "title": "Alquilo Apartamento 1 Dormitorio Al Frente / Sobre Avenida Con Todos Los Servicios - Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604166868-alquilo-apartamento-1-dormitorio-al-frente-sobre-avenida-con-todos-los-servicios-pocitos-_JM"
+      },
+      "location": {
+        "location": "Unidad 701 / 1 Dormitorio Con Terraza Al Frente, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "6000 UYU",
+        "pricecurrency": "U$S",
+        "price": "700"
+      },
+      "attributes": {
+        "superficietotal": "37 m²",
+        "superficie": "31 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "antiguedad": "0 años"
+      }
+    },
+    {
+      "id": "MLU604173349",
+      "principal": {
+        "title": "Vendo Apartamento De 3 Dormitorios, 3 Garajes, Seguridad, Puerto Del Buceo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173349-vendo-apartamento-de-3-dormitorios-3-garajes-seguridad-puerto-del-buceo-_JM"
+      },
+      "location": {
+        "location": "Apartamento De 3 Dormitorios Y Servicio Completo. Garaje Para 3 Autos. Se Vende Con Renta., Puerto Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "27000 UYU",
+        "pricecurrency": "U$S",
+        "price": "3.290"
+      },
+      "attributes": {
+        "superficietotal": "258 m²",
+        "superficie": "222 m²",
+        "baños": "3",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "cocheras": "3"
+      }
+    },
+    {
+      "id": "MLU604183456",
+      "principal": {
+        "title": "Apto Amueblado 1 D Prox A Pta Carretas Shopping",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604183456-apto-amueblado-1-d-prox-a-pta-carretas-shopping-_JM"
+      },
+      "location": {
+        "location": "Punta Carretas, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4300 UYU",
+        "pricecurrency": "U$S",
+        "price": "800"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "6 años",
+
+        "numerodepisodellaunidad": "9"
+      }
+    },
+    {
+      "id": "MLU604235172",
+      "principal": {
+        "title": "Apto Amoblado A 4 De Rambla",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604235172-apto-amoblado-a-4-de-rambla-_JM"
+      },
+      "location": {
+        "location": "Pedro Berro, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3200 UYU",
+        "pricecurrency": "$",
+        "price": "17.000"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": null,
+        "ambientes": "1",
+        "tipo": "Loft",
+
+        "antiguedad": "21 años",
+
+        "numerodepisodellaunidad": "4"
+      }
+    },
+    {
+      "id": "MLU604197656",
+      "principal": {
+        "title": "Apartamento Monoambiente En Alquiler En Parque Batlle",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604197656-apartamento-monoambiente-en-alquiler-en-parque-batlle-_JM"
+      },
+      "location": {
+        "location": "Avda. Italia Y Albo, Parque Batlle, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2300 UYU",
+        "pricecurrency": "$",
+        "price": "18.800"
+      },
+      "attributes": {
+        "superficietotal": "39 m²",
+        "superficie": "39 m²",
+        "baños": "1",
+        "dormitorios": null,
+        "ambientes": "1",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "0 años",
+
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604090194",
+      "principal": {
+        "title": "Apartamento De 2 Dormitorios En Alquiler En Punta Carretas Equipado",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604090194-apartamento-de-2-dormitorios-en-alquiler-en-punta-carretas-equipado-_JM"
+      },
+      "location": {
+        "location": "21 De Setiembre Y Williman, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "8500 UYU",
+        "pricecurrency": "U$S",
+        "price": "2.000"
+      },
+      "attributes": {
+        "superficietotal": "89 m²",
+        "superficie": "75 m²",
+        "baños": "2",
+        "dormitorios": "2",
+        "ambientes": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604209293",
+      "principal": {
+        "title": "Apartamento 57mts2 C/muebles 1 Dorm. Tzas 2 Baños Garage",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209293-apartamento-57mts2-cmuebles-1-dorm-tzas-2-banos-garage-_JM"
+      },
+      "location": {
+        "location": "Villa Biarritz, Villa Biarritz, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "8500 UYU",
+        "pricecurrency": "$",
+        "price": "38.000"
+      },
+      "attributes": {
+        "superficietotal": "57 m²",
+        "superficie": "57 m²",
+        "baños": "2",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "8 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "11"
+      }
+    },
+    {
+      "id": "MLU604129168",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Ciudad Vieja Patio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129168-alquiler-apartamento-2-dormitorios-ciudad-vieja-patio-_JM"
+      },
+      "location": {
+        "location": "Ciudad Vieja, Ciudad Vieja, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2950 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "87 m²",
+        "superficie": "49 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "29 años",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604135577",
+      "principal": {
+        "title": "Vendo O Alquilo Apartamento De 1 Dormitorio A Estrenar, Terraza Con Vista Despejada, Garaje Opcional, Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604135577-vendo-o-alquilo-apartamento-de-1-dormitorio-a-estrenar-terraza-con-vista-despejada-garaje-opcional-pocitos-_JM"
+      },
+      "location": {
+        "location": "Unidad 1203, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4400 UYU",
+        "pricecurrency": "$",
+        "price": "24.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "37 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "0 años"
+      }
+    },
+    {
+      "id": "MLU604154841",
+      "principal": {
+        "title": "Apartamento De 1 Dormitorio En Buceo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154841-apartamento-de-1-dormitorio-en-buceo-_JM"
+      },
+      "location": {
+        "location": "Buceo, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "$",
+        "price": "25.500"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "2"
+      }
+    },
+    {
+      "id": "MLU604167203",
+      "principal": {
+        "title": "Alquilo - Apartamento 2 Dormitorios En Buceo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604167203-alquilo-apartamento-2-dormitorios-en-buceo-_JM"
+      },
+      "location": {
+        "location": "Buceo, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "22.000"
+      },
+      "attributes": {
+        "superficietotal": "10 m²",
+        "superficie": "49 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "33 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "3",
+
+        "cantidaddepisos": "3"
+      }
+    },
+    {
+      "id": "MLU604116340",
+      "principal": {
+        "title": "Alquiler Casa Para Oficina Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116340-alquiler-casa-para-oficina-pocitos-_JM"
+      },
+      "location": {
+        "location": "Pocitos, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "75.000"
+      },
+      "attributes": {
+        "superficietotal": "162 m²",
+        "superficie": "162 m²",
+        "baños": "2",
+        "dormitorios": "4",
+        "ambientes": "5",
+        "tipo": "Departamento",
+
+        "antiguedad": "71 años"
+      }
+    },
+    {
+      "id": "MLU604129103",
+      "principal": {
+        "title": "Vendo Apto 1 Dormitorio Vista Al Mar Garaje / Forum",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129103-vendo-apto-1-dormitorio-vista-al-mar-garaje-forum-_JM"
+      },
+      "location": {
+        "location": "Forum Con Vista Al Mar, Puerto Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "8200 UYU",
+        "pricecurrency": "U$S",
+        "price": "1.600"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604175457",
+      "principal": {
+        "title": "Venta/alquiler Apartamento - Villa Biarritz Delrey Propiedades",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175457-ventaalquiler-apartamento-villa-biarritz-delrey-propiedades-_JM"
+      },
+      "location": {
+        "location": "Parque Villa Biarritz, Villa Biarritz, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "30610 UYU",
+        "pricecurrency": "U$S",
+        "price": "2.350"
+      },
+      "attributes": {
+        "superficietotal": "150 m²",
+        "superficie": "145 m²",
+        "baños": "4",
+        "dormitorios": "3",
+        "ambientes": "5",
+
+        "disposicion": "Frente",
+        "antiguedad": "9 años",
+        "orientacion": "Norte",
+        "cocheras": "2"
+      }
+    },
+    {
+      "id": "MLU604116205",
+      "principal": {
+        "title": "Alquilo Apartamento 2 Dormitorios, Entrega 01/2021, Palermo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116205-alquilo-apartamento-2-dormitorios-entrega-012021-palermo-_JM"
+      },
+      "location": {
+        "location": "Unidad 601, Palermo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "0 UYU",
+        "pricecurrency": "$",
+        "price": "27.000"
+      },
+      "attributes": {
+        "superficietotal": "67 m²",
+        "superficie": "65 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años"
+      }
+    },
+    {
+      "id": "MLU604149380",
+      "principal": {
+        "title": "Alquiler Apartamento Pocitos 2 Dormitorios Balcón",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604149380-alquiler-apartamento-pocitos-2-dormitorios-balcon-_JM"
+      },
+      "location": {
+        "location": "Avenida Brasil 2900, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "9000 UYU",
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "72 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "266319",
+
+        "antiguedad": "21 años"
+      }
+    },
+    {
+      "id": "MLU604136221",
+      "principal": {
+        "title": "Alquiler Apartamento Pocitos 2 Dormitorios Garaje",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604136221-alquiler-apartamento-pocitos-2-dormitorios-garaje-_JM"
+      },
+      "location": {
+        "location": "Avenida Brasil 2900, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "9000 UYU",
+        "pricecurrency": "$",
+        "price": "30.000"
+      },
+      "attributes": {
+        "superficietotal": "72 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "266319",
+
+        "antiguedad": "21 años",
+
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604148817",
+      "principal": {
+        "title": "Alquilo Frente Al Rio! Excepcional Planta Ref 1268",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604148817-alquilo-frente-al-rio-excepcional-planta-ref-1268-_JM"
+      },
+      "location": {
+        "location": "Pocitos Nuevo, Pocitos Nuevo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "14000 UYU",
+        "pricecurrency": "U$S",
+        "price": "3.500"
+      },
+      "attributes": {
+        "superficietotal": "200 m²",
+        "superficie": "200 m²",
+        "baños": "4",
+        "dormitorios": "3",
+
+        "tipo": "Departamento",
+
+        "cocheras": "2"
+      }
+    },
+    {
+      "id": "MLU604135570",
+      "principal": {
+        "title": "A Pasos De 18 De Julio, Con Todo Los Servicios Y Locomoción",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604135570-a-pasos-de-18-de-julio-con-todo-los-servicios-y-locomocion-_JM"
+      },
+      "location": {
+        "location": "Apartamento A Pasos De 18 De Julio, Con Todo Los Servicios Y Locomoción, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5500 UYU",
+        "pricecurrency": "$",
+        "price": "19.500"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "1967 años"
+      }
+    },
+    {
+      "id": "MLU604115287",
+      "principal": {
+        "title": "Alquiler Apartamento Pocitos Soca Y Gestido Balcón Frente U7",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604115287-alquiler-apartamento-pocitos-soca-y-gestido-balcon-frente-u7-_JM"
+      },
+      "location": {
+        "location": "Av. Soca 1308, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1800 UYU",
+        "pricecurrency": "$",
+        "price": "21.000"
+      },
+      "attributes": {
+        "superficietotal": "65 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "70 años",
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "5"
+      }
+    },
+    {
+      "id": "MLU604156863",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Con Balcon Al Frente. Jacinto Vera",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156863-alquiler-apartamento-2-dormitorios-con-balcon-al-frente-jacinto-vera-_JM"
+      },
+      "location": {
+        "location": "Joaquin Requena 1111, Jacinto Vera, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1000 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "63 m²",
+        "superficie": "63 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604202920",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Aguada. 24.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202920-alquiler-apartamento-2-dormitorios-aguada-24-_JM"
+      },
+      "location": {
+        "location": "Aguada, Aguada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5000 UYU",
+        "pricecurrency": "$",
+        "price": "24.000"
+      },
+      "attributes": {
+        "superficietotal": "2000 m²",
+        "superficie": "85 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "22 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "4"
+      }
+    },
+    {
+      "id": "MLU604179784",
+      "principal": {
+        "title": "Vista Al Mar, 2 Dormitorios, Dos Baños, Gge , Piso Alto !!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604179784-vista-al-mar-2-dormitorios-dos-banos-gge-piso-alto--_JM"
+      },
+      "location": {
+        "location": "Vista Al Mar, 2 Dormitorios, Dos Baños, Gge , Piso Alto !!, Pocitos Nuevo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "12000 UYU",
+        "pricecurrency": "$",
+        "price": "35.000"
+      },
+      "attributes": {
+        "superficietotal": "75 m²",
+        "superficie": null,
+        "baños": "2",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "20 años",
+
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604228772",
+      "principal": {
+        "title": "Apartamento 2 Dormitorios En Alquiler En Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604228772-apartamento-2-dormitorios-en-alquiler-en-pocitos-_JM"
+      },
+      "location": {
+        "location": "Avda. Brasil Y Gral. Brito Del Pino, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "8900 UYU",
+        "pricecurrency": "U$S",
+        "price": "1.290"
+      },
+      "attributes": {
+        "superficietotal": "119 m²",
+        "superficie": "65 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+
+        "antiguedad": "6 años"
+      }
+    },
+    {
+      "id": "MLU604137121",
+      "principal": {
+        "title": "Monoambiente Infinity 26 Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604137121-monoambiente-infinity-26-pocitos-_JM"
+      },
+      "location": {
+        "location": "Infinity 26, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3600 UYU",
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": null,
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años"
+      }
+    },
+    {
+      "id": "MLU604116572",
+      "principal": {
+        "title": "Apartamento Malvin Alquiler Blixen Plaza Italia De Revista Piscina Barbacoa Lavadero",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116572-apartamento-malvin-alquiler-blixen-plaza-italia-de-revista-piscina-barbacoa-lavadero-_JM"
+      },
+      "location": {
+        "location": "Blixen Y Colombes, Malvin, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3500 UYU",
+        "pricecurrency": "$",
+        "price": "15.900"
+      },
+      "attributes": {
+        "superficietotal": "33 m²",
+        "superficie": "28 m²",
+        "baños": "1",
+        "dormitorios": null,
+
+        "tipo": "Departamento",
+
+        "numerodepisodellaunidad": "5"
+      }
+    },
+    {
+      "id": "MLU604175478",
+      "principal": {
+        "title": "Apartamento - Pocitos - Locomoción, Sin Gastos Comunes, Buen Estado",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175478-apartamento-pocitos-locomocion-sin-gastos-comunes-buen-estado-_JM"
+      },
+      "location": {
+        "location": "Benito Lamas Y Enrique Muñoz Lap2427552, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "0 UYU",
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Interno",
+        "antiguedad": "20 años"
+      }
+    },
+    {
+      "id": "MLU604215683",
+      "principal": {
+        "title": "Alquiler Apto 1 Dormitorio Aguada",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215683-alquiler-apto-1-dormitorio-aguada-_JM"
+      },
+      "location": {
+        "location": "Valparaiso, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3291 UYU",
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "1 m²",
+        "superficie": "1 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+
+        "numerodepisodellaunidad": "6",
+
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604103367",
+      "principal": {
+        "title": "Juan Paullier Esquina Palmar !",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103367-juan-paullier-esquina-palmar--_JM"
+      },
+      "location": {
+        "location": "Juan Paullier Esquina Palmar !, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1800 UYU",
+        "pricecurrency": "$",
+        "price": "17.000"
+      },
+      "attributes": {
+        "superficietotal": "54 m²",
+        "superficie": "54 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Interno"
+      }
+    },
+    {
+      "id": "MLU604179937",
+      "principal": {
+        "title": "Alquiler De Apartamento 2 Dormitorios Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604179937-alquiler-de-apartamento-2-dormitorios-centro-_JM"
+      },
+      "location": {
+        "location": "Rio Negro, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3500 UYU",
+        "pricecurrency": "$",
+        "price": "27.000"
+      },
+      "attributes": {
+        "superficietotal": "65 m²",
+        "superficie": "61 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "7",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604103340",
+      "principal": {
+        "title": "Alquiler De Apartamento 2 Dormitorios Penthouse Parrillero",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103340-alquiler-de-apartamento-2-dormitorios-penthouse-parrillero-_JM"
+      },
+      "location": {
+        "location": "Andes, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4000 UYU",
+        "pricecurrency": "$",
+        "price": "34.000"
+      },
+      "attributes": {
+        "superficietotal": "79 m²",
+        "superficie": "79 m²",
+        "baños": null,
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "10",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604129176",
+      "principal": {
+        "title": "Alquiler De Apartameto 1 Dormitorio Pocitos Garaje",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129176-alquiler-de-apartameto-1-dormitorio-pocitos-garaje-_JM"
+      },
+      "location": {
+        "location": "Luis Osorio, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3200 UYU",
+        "pricecurrency": "$",
+        "price": "24.900"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "4 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "4",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604215767",
+      "principal": {
+        "title": "Apartamento En Alquiler 1 Dormitorio 1 Baño-valparaiso- Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215767-apartamento-en-alquiler-1-dormitorio-1-bano-valparaiso-centro-_JM"
+      },
+      "location": {
+        "location": "Apartamento En Alquiler 1 Dormitorio 1 Baño-valparaiso- Centro, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3291 UYU",
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "37 m²",
+        "superficie": "37 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente"
+      }
+    },
+    {
+      "id": "MLU604169063",
+      "principal": {
+        "title": "Apartamento Para Alquilar / Tres Cruces - Inmobiliaria Lars",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604169063-apartamento-para-alquilar-tres-cruces-inmobiliaria-lars-_JM"
+      },
+      "location": {
+        "location": "Monte Caseros Esq. Ramón Y Cajal, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3300 UYU",
+        "pricecurrency": "$",
+        "price": "30.000"
+      },
+      "attributes": {
+        "superficietotal": "80 m²",
+        "superficie": "80 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "4",
+
+        "disposicion": "Frente",
+        "antiguedad": "52 años",
+
+        "apartamentosporpiso": "1"
+      }
+    },
+    {
+      "id": "MLU604235119",
+      "principal": {
+        "title": "Alquiler Apartamento Parque Rodó 1 Dormitorio Piso Alto",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604235119-alquiler-apartamento-parque-rodo-1-dormitorio-piso-alto-_JM"
+      },
+      "location": {
+        "location": "Eduardo Acevedo, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4500 UYU",
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "38 m²",
+        "baños": null,
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "28 años",
+
+        "numerodepisodellaunidad": "6"
+      }
+    },
+    {
+      "id": "MLU604209238",
+      "principal": {
+        "title": "Alquiler Apartamento Buceo 1 Dormitorio , Frente, Garaje",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209238-alquiler-apartamento-buceo-1-dormitorio-frente-garaje-_JM"
+      },
+      "location": {
+        "location": "Santiago Rivas Y Rivera, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3200 UYU",
+        "pricecurrency": "$",
+        "price": "21.000"
+      },
+      "attributes": {
+        "superficietotal": "35 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "10 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "1"
+      }
+    },
+    {
+      "id": "MLU604173515",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173515-alquiler-apartamento-2-dormitorios-centro-_JM"
+      },
+      "location": {
+        "location": "Andes, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3500 UYU",
+        "pricecurrency": "$",
+        "price": "27.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "9",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604154555",
+      "principal": {
+        "title": "Alquiler Apartamento P.carretas 1 Dorm Con Muebles",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154555-alquiler-apartamento-pcarretas-1-dorm-con-muebles-_JM"
+      },
+      "location": {
+        "location": "Punta Carretas, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5323 UYU",
+        "pricecurrency": "U$S",
+        "price": "750"
+      },
+      "attributes": {
+        "superficietotal": "54 m²",
+        "superficie": "48 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "19 años",
+
+        "numerodepisodellaunidad": "9"
+      }
+    },
+    {
+      "id": "MLU604156755",
+      "principal": {
+        "title": "1 Dormitorio 1 Baño Terraza Alquiler Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156755-1-dormitorio-1-bano-terraza-alquiler-pocitos-_JM"
+      },
+      "location": {
+        "location": "Berro, 1260, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604202835",
+      "principal": {
+        "title": "Lindo 1 Dormitorio, Piso 6 Al Frente,",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202835-lindo-1-dormitorio-piso-6-al-frente-_JM"
+      },
+      "location": {
+        "location": "Valparaiso Y Yi Lap4077595, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3300 UYU",
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "37 m²",
+        "superficie": "37 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "30 años"
+      }
+    },
+    {
+      "id": "MLU604156598",
+      "principal": {
+        "title": "Lindo 1 Dormitorio, Piso 6 Al Frente,",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156598-lindo-1-dormitorio-piso-6-al-frente-_JM"
+      },
+      "location": {
+        "location": "Valparaiso Y Yi Lap4077595, Aguada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3300 UYU",
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "37 m²",
+        "superficie": "37 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "30 años"
+      }
+    },
+    {
+      "id": "MLU604130783",
+      "principal": {
+        "title": "Alquiler Apto 1 Dormitorio Aguada",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604130783-alquiler-apto-1-dormitorio-aguada-_JM"
+      },
+      "location": {
+        "location": "Avenida Libertador, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2050 UYU",
+        "pricecurrency": "$",
+        "price": "21.500"
+      },
+      "attributes": {
+        "superficietotal": "51 m²",
+        "superficie": "51 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604179986",
+      "principal": {
+        "title": "Alquiler Apartamento Barrio Sur 2 Dormitorios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604179986-alquiler-apartamento-barrio-sur-2-dormitorios-_JM"
+      },
+      "location": {
+        "location": "Maldonado 900, Barrio Sur, Montevideo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2000 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "75 m²",
+        "superficie": "59 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "266319",
+
+        "antiguedad": "90 años"
+      }
+    },
+    {
+      "id": "MLU604116375",
+      "principal": {
+        "title": "Alquiler De Apartamento 1 Dormitorio Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116375-alquiler-de-apartamento-1-dormitorio-centro-_JM"
+      },
+      "location": {
+        "location": "Rio Negro Y Soriano, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2800 UYU",
+        "pricecurrency": "$",
+        "price": "23.000"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "4",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604173518",
+      "principal": {
+        "title": "Alquiler De Apartamento 2 Dormitorio Centro Estrene",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173518-alquiler-de-apartamento-2-dormitorio-centro-estrene-_JM"
+      },
+      "location": {
+        "location": "Rio Negro Y Soriano, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3000 UYU",
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "57 m²",
+        "superficie": "52 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "4",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604183138",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604183138-alquiler-apartamento-1-dormitorio-centro-_JM"
+      },
+      "location": {
+        "location": "Andes, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3000 UYU",
+        "pricecurrency": "$",
+        "price": "22.000"
+      },
+      "attributes": {
+        "superficietotal": "35 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "9",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604179806",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio En Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604179806-alquiler-apartamento-1-dormitorio-en-centro-_JM"
+      },
+      "location": {
+        "location": "Colonia, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4300 UYU",
+        "pricecurrency": "$",
+        "price": "14.500"
+      },
+      "attributes": {
+        "superficietotal": "332 m²",
+        "superficie": "37 m²",
+        "baños": null,
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "50 años"
+      }
+    },
+    {
+      "id": "MLU604215791",
+      "principal": {
+        "title": "Moderno, Agraciada Y Tapes, Cochera Opcional",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215791-moderno-agraciada-y-tapes-cochera-opcional-_JM"
+      },
+      "location": {
+        "location": "Prado, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3700 UYU",
+        "pricecurrency": "$",
+        "price": "22.400"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "5 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "2"
+      }
+    },
+    {
+      "id": "MLU604156461",
+      "principal": {
+        "title": "Apartamento - Montevideo Parque Rodo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156461-apartamento-montevideo-parque-rodo-_JM"
+      },
+      "location": {
+        "location": "Apartamento - Montevideo Parque Rodo, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1950 UYU",
+        "pricecurrency": "$",
+        "price": "21.100"
+      },
+      "attributes": {
+        "superficietotal": "43 m²",
+        "superficie": "43 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604129604",
+      "principal": {
+        "title": "Monoambiente En Alquiler Oficina O Vivienda -18 De Julio- Cordón",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129604-monoambiente-en-alquiler-oficina-o-vivienda-18-de-julio-cordon-_JM"
+      },
+      "location": {
+        "location": "Monoambiente En Alquiler Oficina O Vivienda -18 De Julio- Cordón, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4300 UYU",
+        "pricecurrency": "$",
+        "price": "14.500"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": null,
+
+        "disposicion": "Contrafrente"
+      }
+    },
+    {
+      "id": "MLU604183135",
+      "principal": {
+        "title": "Alquiler Apartamento Centro 2 Dormitorios Nuevo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604183135-alquiler-apartamento-centro-2-dormitorios-nuevo-_JM"
+      },
+      "location": {
+        "location": "Andes, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4500 UYU",
+        "pricecurrency": "$",
+        "price": "27.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "9",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604197802",
+      "principal": {
+        "title": "Alquilo Apartamento En Primer Piso De Torres Del Puerto Sin Muebles",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604197802-alquilo-apartamento-en-primer-piso-de-torres-del-puerto-sin-muebles-_JM"
+      },
+      "location": {
+        "location": "Puerto Del Buceo, Puerto Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "U$S",
+        "price": "850"
+      },
+      "attributes": {
+        "superficietotal": "1 m²",
+        "superficie": null,
+        "baños": "1",
+        "dormitorios": "2",
+
+        "tipo": "Departamento",
+
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604228682",
+      "principal": {
+        "title": "Apartamento Al Frente, 2 Dorm, Balcón. Buen Punto",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604228682-apartamento-al-frente-2-dorm-balcon-buen-punto-_JM"
+      },
+      "location": {
+        "location": "La Blanqueada, La Blanqueada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "3"
+      }
+    },
+    {
+      "id": "MLU604174558",
+      "principal": {
+        "title": "No Te Lo Pierdas!!! Hermoso Apto 1 Dorm, Parque Rodo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604174558-no-te-lo-pierdas-hermoso-apto-1-dorm-parque-rodo-_JM"
+      },
+      "location": {
+        "location": "Blanes, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "100 UYU",
+        "pricecurrency": "$",
+        "price": "17.000"
+      },
+      "attributes": {
+        "superficietotal": "52 m²",
+        "superficie": "52 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604116387",
+      "principal": {
+        "title": "Impecable Amplio Monoambiente Al Contrafrente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116387-impecable-amplio-monoambiente-al-contrafrente-_JM"
+      },
+      "location": {
+        "location": "18 De Julio Y Gaboto., Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "14.500"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": null,
+
+        "tipo": "Departamento"
+      }
+    },
+    {
+      "id": "MLU604167057",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Pta.carretas C/vista",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604167057-alquiler-apartamento-1-dormitorio-ptacarretas-cvista-_JM"
+      },
+      "location": {
+        "location": "Punta Carretas, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "5323 UYU",
+        "pricecurrency": "$",
+        "price": "24.500"
+      },
+      "attributes": {
+        "superficietotal": "47 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "21 años",
+
+        "numerodepisodellaunidad": "9"
+      }
+    },
+    {
+      "id": "MLU604173403",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Con Garaje",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173403-alquiler-apartamento-2-dormitorios-con-garaje-_JM"
+      },
+      "location": {
+        "location": "Echevarriarza 3535, Pocitos Nuevo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "9000 UYU",
+        "pricecurrency": "U$S",
+        "price": "850"
+      },
+      "attributes": {
+        "superficietotal": "1 m²",
+        "superficie": "53 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "tipo": "Departamento",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "1"
+      }
+    },
+    {
+      "id": "MLU604156724",
+      "principal": {
+        "title": "Zona Cordón, Vivienda U Oficina, Contrafrente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156724-zona-cordon-vivienda-u-oficina-contrafrente-_JM"
+      },
+      "location": {
+        "location": "18 De Julio Y Gaboto Lap4077708, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4300 UYU",
+        "pricecurrency": "$",
+        "price": "14.500"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": null,
+        "ambientes": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "21 años"
+      }
+    },
+    {
+      "id": "MLU604222216",
+      "principal": {
+        "title": "Alma Brava Piso 6 Al Frente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222216-alma-brava-piso-6-al-frente-_JM"
+      },
+      "location": {
+        "location": "Centro, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "21.000"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+        "tipo": "Departamento",
+
+        "antiguedad": "2 años",
+
+        "numerodepisodellaunidad": "6",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604104311",
+      "principal": {
+        "title": "Vende Barrio Pérez Castellano 2 Dormiotrios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604104311-vende-barrio-perez-castellano-2-dormiotrios-_JM"
+      },
+      "location": {
+        "location": "Perez Castellanos, Pérez Castellanos, Montevideo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "13.000"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2",
+        "ambientes": "3",
+        "tipo": "Departamento",
+
+        "antiguedad": "41 años",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604103395",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Aguada. Cochera.-",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103395-alquiler-apartamento-2-dormitorios-aguada-cochera--_JM"
+      },
+      "location": {
+        "location": "Aguada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2500 UYU",
+        "pricecurrency": "$",
+        "price": "24.000"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "antiguedad": "21 años",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "3"
+      }
+    },
+    {
+      "id": "MLU604117892",
+      "principal": {
+        "title": "Apartamento 3 Dormitorios, 2 Baños",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604117892-apartamento-3-dormitorios-2-banos-_JM"
+      },
+      "location": {
+        "location": "Leyenda Patria 2930, Villa Biarritz, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "U$S",
+        "price": "2.200"
+      },
+      "attributes": {
+        "superficietotal": "110 m²",
+        "superficie": "105 m²",
+        "baños": "2",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "50 años",
+        "orientacion": "Este",
+        "cocheras": "1",
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No",
+
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604154877",
+      "principal": {
+        "title": "Apartamento Alquiler 2 Dormitorios Brazo Oriental Patio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154877-apartamento-alquiler-2-dormitorios-brazo-oriental-patio-_JM"
+      },
+      "location": {
+        "location": "Carabelas 3424, Jacinto Vera, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "15 años",
+        "orientacion": "Este",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604189545",
+      "principal": {
+        "title": "Apartamento Alquiler 2 Dormitorios Brazo Oriental Patio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604189545-apartamento-alquiler-2-dormitorios-brazo-oriental-patio-_JM"
+      },
+      "location": {
+        "location": "Carabelas 3424, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "15 años",
+        "orientacion": "Este",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604167261",
+      "principal": {
+        "title": "Apartamento Alquiler 2 Dormitorios Brazo Oriental Patio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604167261-apartamento-alquiler-2-dormitorios-brazo-oriental-patio-_JM"
+      },
+      "location": {
+        "location": "Carabelas 3424, Atahualpa, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "15 años",
+        "orientacion": "Este",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604148962",
+      "principal": {
+        "title": "Apartamento Alquiler 2 Dormitorios Brazo Oriental Patio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604148962-apartamento-alquiler-2-dormitorios-brazo-oriental-patio-_JM"
+      },
+      "location": {
+        "location": "Carabelas 3424, Brazo Oriental, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "15 años",
+        "orientacion": "Este",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604209456",
+      "principal": {
+        "title": "Apartamento 3 Dormitorios 2 Baños Al Frente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209456-apartamento-3-dormitorios-2-banos-al-frente-_JM"
+      },
+      "location": {
+        "location": "Bvar Artigas Sn, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "29.000"
+      },
+      "attributes": {
+        "superficietotal": "80 m²",
+        "superficie": "80 m²",
+        "baños": "2",
+        "dormitorios": "3"
+      }
+    },
+    {
+      "id": "MLU604222295",
+      "principal": {
+        "title": "Alquiler Berro Y Berreiro 1 Dorm Balcón Cocina Lavadero",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222295-alquiler-berro-y-berreiro-1-dorm-balcon-cocina-lavadero-_JM"
+      },
+      "location": {
+        "location": "Berro Y Barreiro Sn, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "26.000"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604156712",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio - Tres Cruces",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156712-alquiler-apartamento-1-dormitorio-tres-cruces-_JM"
+      },
+      "location": {
+        "location": "Rivadavia 2210, Jacinto Vera, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2900 UYU",
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "46 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "2",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604175556",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio - Tres Cruces",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175556-alquiler-apartamento-1-dormitorio-tres-cruces-_JM"
+      },
+      "location": {
+        "location": "Rivadavia 2210, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2900 UYU",
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "46 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "numerodepisodellaunidad": "2",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604235232",
+      "principal": {
+        "title": "Alquilo Apto Con Partio, Sin Gc 2 Dormitorios En Cerrito!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604235232-alquilo-apto-con-partio-sin-gc-2-dormitorios-en-cerrito-_JM"
+      },
+      "location": {
+        "location": "Santiago Sierra 0000, Cerrito, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "14.000"
+      },
+      "attributes": {
+        "superficietotal": "65 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604129741",
+      "principal": {
+        "title": "Apartamento 1 Dormitorio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129741-apartamento-1-dormitorio-_JM"
+      },
+      "location": {
+        "location": "Av. Carlos Ma. Ramirez 878, La Teja, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "13.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604135917",
+      "principal": {
+        "title": "Alquiler Apartamento 3 Dormitorios Golf",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604135917-alquiler-apartamento-3-dormitorios-golf-_JM"
+      },
+      "location": {
+        "location": "Alquiler Apartamento 3 Dormitorios Golf, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "42000 UYU",
+        "pricecurrency": "U$S",
+        "price": "7.000"
+      },
+      "attributes": {
+        "superficietotal": "243 m²",
+        "superficie": "181 m²",
+        "baños": "5",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+
+        "cocheras": "2"
+      }
+    },
+    {
+      "id": "MLU604129257",
+      "principal": {
+        "title": "Alquiler Apartamento 2 Dormitorios Goes.-",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129257-alquiler-apartamento-2-dormitorios-goes--_JM"
+      },
+      "location": {
+        "location": "Goes, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1800 UYU",
+        "pricecurrency": "$",
+        "price": "19.500"
+      },
+      "attributes": {
+        "superficietotal": "57 m²",
+        "superficie": "57 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "41 años",
+
+        "numerodepisodellaunidad": "6"
+      }
+    },
+    {
+      "id": "MLU604175468",
+      "principal": {
+        "title": "Piso Alto A Mtrs De Av.18 De Julio !!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175468-piso-alto-a-mtrs-de-av18-de-julio--_JM"
+      },
+      "location": {
+        "location": "Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4000 UYU",
+        "pricecurrency": "$",
+        "price": "14.500"
+      },
+      "attributes": {
+        "superficietotal": "42 m²",
+        "superficie": "42 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "57 años",
+        "orientacion": "Este",
+
+        "numerodepisodellaunidad": "5",
+
+        "cantidaddepisos": "11"
+      }
+    },
+    {
+      "id": "MLU604173601",
+      "principal": {
+        "title": "Ca983 Alquiler Apartamento 1 Dormitorio, En Ciudad Vieja",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173601-ca983-alquiler-apartamento-1-dormitorio-en-ciudad-vieja-_JM"
+      },
+      "location": {
+        "location": "Juncal 1000, Ciudad Vieja, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3370 UYU",
+        "pricecurrency": "$",
+        "price": "14.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604134787",
+      "principal": {
+        "title": "Alquilo Hermoso Apto De 2 Dorm En Gran Zona, Atahualpa!!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604134787-alquilo-hermoso-apto-de-2-dorm-en-gran-zona-atahualpa-_JM"
+      },
+      "location": {
+        "location": "Luis Alberto De Herrera Sn, Atahualpa, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "23.000"
+      },
+      "attributes": {
+        "superficietotal": "68 m²",
+        "superficie": "68 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604215770",
+      "principal": {
+        "title": "Apartamento Piso 1 Impecable",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215770-apartamento-piso-1-impecable-_JM"
+      },
+      "location": {
+        "location": "Calle 126 2086, Malvin Norte, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "12.500"
+      },
+      "attributes": {
+        "superficietotal": "53 m²",
+        "superficie": "53 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604136210",
+      "principal": {
+        "title": "Alquiler Monoambiente Reciclado En Tres Cruces",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604136210-alquiler-monoambiente-reciclado-en-tres-cruces-_JM"
+      },
+      "location": {
+        "location": "Ramon Y Cajal 2486, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "14.000"
+      },
+      "attributes": {
+        "superficietotal": "35 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": null,
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604103528",
+      "principal": {
+        "title": "Apartamento En Alquiler Peatonal Sarandi, Ciudad Vieja",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103528-apartamento-en-alquiler-peatonal-sarandi-ciudad-vieja-_JM"
+      },
+      "location": {
+        "location": "Saradi Esq Alzaibar 0, Ciudad Vieja, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4050 UYU",
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "5",
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604173675",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio Barrio Sur. A Pasos De La Rambla.-",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173675-alquiler-apartamento-1-dormitorio-barrio-sur-a-pasos-de-la-rambla--_JM"
+      },
+      "location": {
+        "location": "Palermo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1800 UYU",
+        "pricecurrency": "$",
+        "price": "16.200"
+      },
+      "attributes": {
+        "superficietotal": "42 m²",
+        "superficie": "42 m²",
+        "baños": "1",
+        "dormitorios": null,
+
+        "disposicion": "Frente",
+        "antiguedad": "21 años",
+
+        "numerodepisodellaunidad": "5"
+      }
+    },
+    {
+      "id": "MLU604129259",
+      "principal": {
+        "title": "Apartamento En Alquiler Calle Maldonado, Barrio Sur",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129259-apartamento-en-alquiler-calle-maldonado-barrio-sur-_JM"
+      },
+      "location": {
+        "location": "Maldonado Esq Paraguay 0, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2000 UYU",
+        "pricecurrency": "$",
+        "price": "14.800"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+
+        "numerodepisodellaunidad": "3",
+        "admitemascotas": "No",
+
+        "cantidaddepisos": "3"
+      }
+    },
+    {
+      "id": "MLU604128583",
+      "principal": {
+        "title": "Apartamento En Ciudad Vieja,1 Dormitorio, Amplio Y Luminoso!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604128583-apartamento-en-ciudad-vieja1-dormitorio-amplio-y-luminoso-_JM"
+      },
+      "location": {
+        "location": "Sarandí Y Alzáibar 0000, Palermo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4050 UYU",
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "10 años",
+        "orientacion": "Sur",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "5",
+        "cantidaddepisos": "10"
+      }
+    },
+    {
+      "id": "MLU604254566",
+      "principal": {
+        "title": "1 Dormitorio/entrepisono Tiene Gastos Comunes/apart 01",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604254566-1-dormitorioentrepisono-tiene-gastos-comunesapart-01-_JM"
+      },
+      "location": {
+        "location": "Fernandez Crespo Y Cerro Largo 01, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "100 UYU",
+        "pricecurrency": "$",
+        "price": "11.500"
+      },
+      "attributes": {
+        "superficietotal": "23 m²",
+        "superficie": "23 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "30 años",
+        "orientacion": "Norte",
+
+        "admitemascotas": "No",
+        "apartamentosporpiso": "2",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604156852",
+      "principal": {
+        "title": "Alquiler De Apartamento",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156852-alquiler-de-apartamento-_JM"
+      },
+      "location": {
+        "location": "8 De Octubre Y 18 De Julio Sn, Tres Cruces, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604202999",
+      "principal": {
+        "title": "Apartamento 3 Dormitorios La Comercial",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202999-apartamento-3-dormitorios-la-comercial-_JM"
+      },
+      "location": {
+        "location": "Domingo Aramburu 2136, La Comercial, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "24.000"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "3"
+      }
+    },
+    {
+      "id": "MLU604202957",
+      "principal": {
+        "title": "Apartamento En Alquiler Bernando Susviela, Prado",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202957-apartamento-en-alquiler-bernando-susviela-prado-_JM"
+      },
+      "location": {
+        "location": "Bernardo Susviela Esq Caceres 0, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "600 UYU",
+        "pricecurrency": "$",
+        "price": "17.000"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Interno",
+
+        "numerodepisodellaunidad": "2",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604156466",
+      "principal": {
+        "title": "Luminoso, Amplio, Con Balcón",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156466-luminoso-amplio-con-balcon-_JM"
+      },
+      "location": {
+        "location": "Cerro Largo Y Ejido Sn, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "21.000"
+      },
+      "attributes": {
+        "superficietotal": "65 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604175084",
+      "principal": {
+        "title": "A Pasos De Mvideo Shopping, Planta Baja Con Patio, 1 Dorm,",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175084-a-pasos-de-mvideo-shopping-planta-baja-con-patio-1-dorm-_JM"
+      },
+      "location": {
+        "location": "Marco Bruto 1263, Pocitos Nuevo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1800 UYU",
+        "pricecurrency": "$",
+        "price": "18.900"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "01",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604156057",
+      "principal": {
+        "title": "Se Alquila Apartamento De 2 Domitorios En Cordon",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156057-se-alquila-apartamento-de-2-domitorios-en-cordon-_JM"
+      },
+      "location": {
+        "location": "Chaná Y Jackson Sn 000, Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "25.000"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604129643",
+      "principal": {
+        "title": "Espectacular Apartamento Alquiler 1dormitorio 1baño Centro",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129643-espectacular-apartamento-alquiler-1dormitorio-1bano-centro-_JM"
+      },
+      "location": {
+        "location": "Av. Libertador Brig. Gral. Lavalleja Y Galicia 0000, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "21500 UYU",
+        "pricecurrency": "$",
+        "price": "21.500"
+      },
+      "attributes": {
+        "superficietotal": "51 m²",
+        "superficie": "51 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Oeste",
+
+        "numerodepisodellaunidad": "3",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604103538",
+      "principal": {
+        "title": "Apartamento En Alquiler Scoseria, Punta Carretas",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103538-apartamento-en-alquiler-scoseria-punta-carretas-_JM"
+      },
+      "location": {
+        "location": "Scoseria Y 21 De Setiembre 0, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3000 UYU",
+        "pricecurrency": "$",
+        "price": "19.900"
+      },
+      "attributes": {
+        "superficietotal": "35 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Lateral",
+
+        "numerodepisodellaunidad": "9",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604180024",
+      "principal": {
+        "title": "Muy Lindo Apto Independiente Con Cochera",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604180024-muy-lindo-apto-independiente-con-cochera-_JM"
+      },
+      "location": {
+        "location": "Nelson 3460, Atahualpa, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.500"
+      },
+      "attributes": {
+        "superficietotal": "38 m²",
+        "superficie": "38 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Este",
+        "cocheras": "1",
+
+        "admitemascotas": "Sí",
+
+        "cantidaddepisos": "2"
+      }
+    },
+    {
+      "id": "MLU604173548",
+      "principal": {
+        "title": "Iluminado Con Parrillero Independiente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173548-iluminado-con-parrillero-independiente-_JM"
+      },
+      "location": {
+        "location": "Domingo Aramburu Y Garibaldi 0000, La Comercial, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1 UYU",
+        "pricecurrency": "$",
+        "price": "23.000"
+      },
+      "attributes": {
+        "superficietotal": "57 m²",
+        "superficie": "57 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Interno",
+        "antiguedad": "50 años",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "2",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604169019",
+      "principal": {
+        "title": "Alquiler Apartamento 3 Dormitorios Punta Carretas",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604169019-alquiler-apartamento-3-dormitorios-punta-carretas-_JM"
+      },
+      "location": {
+        "location": "Ellauri 809, Punta Carretas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "17000 UYU",
+        "pricecurrency": "$",
+        "price": "45.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "2",
+        "dormitorios": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "71 años",
+        "orientacion": "Norte",
+        "cocheras": "1"
+      }
+    },
+    {
+      "id": "MLU604168989",
+      "principal": {
+        "title": "Se Alquila Apartamento De 1 Dormitorio En Reducto",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604168989-se-alquila-apartamento-de-1-dormitorio-en-reducto-_JM"
+      },
+      "location": {
+        "location": "El Iniciador 1666, Reducto, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "900 UYU",
+        "pricecurrency": "$",
+        "price": "11.000"
+      },
+      "attributes": {
+        "superficietotal": "32 m²",
+        "superficie": "32 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604156061",
+      "principal": {
+        "title": "Alquiler Apartamento 1 Dormitorio - Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156061-alquiler-apartamento-1-dormitorio-pocitos-_JM"
+      },
+      "location": {
+        "location": "Av. Brasil 2600, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "4800 UYU",
+        "pricecurrency": "$",
+        "price": "23.000"
+      },
+      "attributes": {
+        "superficietotal": "47 m²",
+        "superficie": "47 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+
+        "cocheras": "1",
+        "numerodepisodellaunidad": "8",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604103836",
+      "principal": {
+        "title": "Hermoso Apto 2 Dorm En Buceo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103836-hermoso-apto-2-dorm-en-buceo-_JM"
+      },
+      "location": {
+        "location": "Demostenes Y Juan J De Herrera 1111, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3500 UYU",
+        "pricecurrency": "$",
+        "price": "24.500"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604154980",
+      "principal": {
+        "title": "Apartamento Alquiler Maroñas Un Dormitorio Jardin",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154980-apartamento-alquiler-maronas-un-dormitorio-jardin-_JM"
+      },
+      "location": {
+        "location": "Alferez Real 0, Maroñas, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "12.000"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604209434",
+      "principal": {
+        "title": "Apto 2 Dormitorios Cerrito",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209434-apto-2-dormitorios-cerrito-_JM"
+      },
+      "location": {
+        "location": "Estanislao Vega 3673, Cerrito, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "9.800"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604104860",
+      "principal": {
+        "title": "No Te Lo Pierdas!!! Hermoso Apto 2 Dorm, Palermo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604104860-no-te-lo-pierdas-hermoso-apto-2-dorm-palermo-_JM"
+      },
+      "location": {
+        "location": "Salto, Palermo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1 UYU",
+        "pricecurrency": "U$S",
+        "price": "650"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604103941",
+      "principal": {
+        "title": "Unión,1 Dorm. Patio, Muy Buen Estado, Cómodo, Seguro, Sin Gc",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103941-union1-dorm-patio-muy-buen-estado-comodo-seguro-sin-gc-_JM"
+      },
+      "location": {
+        "location": "Fray Bentos Y Comercio 0000, Unión, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "15.000"
+      },
+      "attributes": {
+        "superficietotal": "42 m²",
+        "superficie": "42 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604154977",
+      "principal": {
+        "title": "Oportunidad!!! Hermoso Apto, 2 Dorm, Parque Batlle",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154977-oportunidad-hermoso-apto-2-dorm-parque-batlle-_JM"
+      },
+      "location": {
+        "location": "Julio Cesar Grauert 33, Parque Batlle, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2000 UYU",
+        "pricecurrency": "$",
+        "price": "29.500"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "1",
+
+        "apartamentosporpiso": "2"
+      }
+    },
+    {
+      "id": "MLU604183141",
+      "principal": {
+        "title": "Apartamento De 1 Dormitorio En Alquiler En Bella Vista",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604183141-apartamento-de-1-dormitorio-en-alquiler-en-bella-vista-_JM"
+      },
+      "location": {
+        "location": "Apartamento De 1 Dormitorio En Alquiler En Bella Vista, Bella Vista, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2400 UYU",
+        "pricecurrency": "$",
+        "price": "17.100"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "1 años"
+      }
+    },
+    {
+      "id": "MLU604209635",
+      "principal": {
+        "title": "Apartamentos Nuevos De 2 Dormitorios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209635-apartamentos-nuevos-de-2-dormitorios-_JM"
+      },
+      "location": {
+        "location": "Bella Vista, Bella Vista, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "22.500"
+      },
+      "attributes": {
+        "superficietotal": "59 m²",
+        "superficie": "59 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "tipo": "Departamento"
+      }
+    },
+    {
+      "id": "MLU604215822",
+      "principal": {
+        "title": "Oportunidad 2 Dormitorios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215822-oportunidad-2-dormitorios-_JM"
+      },
+      "location": {
+        "location": "Bvar. Artigas 2303, La Comercial, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3000 UYU",
+        "pricecurrency": "$",
+        "price": "16.500"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+        "antiguedad": "60 años",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí",
+        "apartamentosporpiso": "4",
+        "cantidaddepisos": "3"
+      }
+    },
+    {
+      "id": "MLU604215764",
+      "principal": {
+        "title": "Alquiler Apartamento Barrio Sur - Canelones Ap.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604215764-alquiler-apartamento-barrio-sur-canelones-ap-_JM"
+      },
+      "location": {
+        "location": "Alquiler Barrio Sur - 3 Dormitorios - Canelones Y Convención, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "25.500"
+      },
+      "attributes": {
+        "superficietotal": "77 m²",
+        "superficie": "73 m²",
+        "baños": "2",
+        "dormitorios": "3",
+
+        "tipo": "Departamento",
+
+        "antiguedad": "54 años"
+      }
+    },
+    {
+      "id": "MLU604175443",
+      "principal": {
+        "title": "Monoambiente Zona Pocitos, Piso 3, Cocina Definida",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175443-monoambiente-zona-pocitos-piso-3-cocina-definida-_JM"
+      },
+      "location": {
+        "location": "Francisco Muñoz Y La Gaceta Lap4077176, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2300 UYU",
+        "pricecurrency": "$",
+        "price": "15.700"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": null,
+        "ambientes": "1",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "15 años"
+      }
+    },
+    {
+      "id": "MLU604156119",
+      "principal": {
+        "title": "Se Alquila Casa De 2 Dormitorios En Goes, Montevideo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156119-se-alquila-casa-de-2-dormitorios-en-goes-montevideo-_JM"
+      },
+      "location": {
+        "location": "Guadalupe 2022, Goes, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.900"
+      },
+      "attributes": {
+        "superficietotal": "120 m²",
+        "superficie": "80 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604090533",
+      "principal": {
+        "title": "Hermoso Apto 2 Dorm En Aguada",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604090533-hermoso-apto-2-dorm-en-aguada-_JM"
+      },
+      "location": {
+        "location": "Colombia Y Rondeau 1111, Aguada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3900 UYU",
+        "pricecurrency": "$",
+        "price": "20.000"
+      },
+      "attributes": {
+        "superficietotal": "54 m²",
+        "superficie": "54 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "numerodepisodellaunidad": "9",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604183433",
+      "principal": {
+        "title": "Apartamento Sobre Agraciada , 1 Dormitorio, 2do Piso Por Esc",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604183433-apartamento-sobre-agraciada-1-dormitorio-2do-piso-por-esc-_JM"
+      },
+      "location": {
+        "location": "Avenida Agraciada 3727, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "35 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604173639",
+      "principal": {
+        "title": "Apartamento 1 Dormitorio Próximo Millan Y Br. Artigas, Piso Alto Despejado.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604173639-apartamento-1-dormitorio-proximo-millan-y-br-artigas-piso-alto-despejado-_JM"
+      },
+      "location": {
+        "location": "Millan Y Br. Artigas, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "3800 UYU",
+        "pricecurrency": "$",
+        "price": "17.500"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "45 m²",
+        "baños": "1",
+        "dormitorios": "1",
+        "ambientes": "2",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "5 años",
+        "orientacion": "Oeste"
+      }
+    },
+    {
+      "id": "MLU604135819",
+      "principal": {
+        "title": "Apartamento, Pocitos Nuevo 2 Dormitorios, 2 Baños, Terraza, Garaje , Baulera.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604135819-apartamento-pocitos-nuevo-2-dormitorios-2-banos-terraza-garaje-baulera-_JM"
+      },
+      "location": {
+        "location": "Julio Cesar Al 1300, Pocitos Nuevo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "6500 UYU",
+        "pricecurrency": "U$S",
+        "price": "750"
+      },
+      "attributes": {
+        "superficietotal": "72 m²",
+        "superficie": null,
+        "baños": "2",
+        "dormitorios": "2",
+        "ambientes": "3",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+
+        "cocheras": "1",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604166951",
+      "principal": {
+        "title": "Vendo Hermoso Apto De 1 Dorm En Hermosa Zona, Villa Dolores!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604166951-vendo-hermoso-apto-de-1-dorm-en-hermosa-zona-villa-dolores-_JM"
+      },
+      "location": {
+        "location": "Bernardina Fragoso De Rivera Sn, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "U$S",
+        "price": "85.000"
+      },
+      "attributes": {
+        "superficietotal": "45 m²",
+        "superficie": "35 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604179832",
+      "principal": {
+        "title": "Apartamento Excelente Ubicacion, Zona De Servicios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604179832-apartamento-excelente-ubicacion-zona-de-servicios-_JM"
+      },
+      "location": {
+        "location": "Cordón, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "6000 UYU",
+        "pricecurrency": "$",
+        "price": "15.000"
+      },
+      "attributes": {
+        "superficietotal": "36 m²",
+        "superficie": "36 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Contrafrente",
+        "antiguedad": "23 años",
+
+        "numerodepisodellaunidad": "11"
+      }
+    },
+    {
+      "id": "MLU604103238",
+      "principal": {
+        "title": "Centro Alquiler Apartamento 2 Dormitorios Azotea",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103238-centro-alquiler-apartamento-2-dormitorios-azotea-_JM"
+      },
+      "location": {
+        "location": "Mercedes 1722, Centro, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "0 UYU",
+        "pricecurrency": "$",
+        "price": "19.500"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Interno",
+        "antiguedad": "1 años",
+        "orientacion": "Norte",
+
+        "apartamentosporpiso": "5"
+      }
+    },
+    {
+      "id": "MLU604222271",
+      "principal": {
+        "title": "Buena Apto. Por Corredor De 2 Dorm. Y Escritorio!!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222271-buena-apto-por-corredor-de-2-dorm-y-escritorio-_JM"
+      },
+      "location": {
+        "location": "Gustavo Gallinal 2189, La Comercial, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "14.800"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604222134",
+      "principal": {
+        "title": "Apartamento En Alquiler Calle Ceibal ,jacinto Vera",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222134-apartamento-en-alquiler-calle-ceibal-jacinto-vera-_JM"
+      },
+      "location": {
+        "location": "Ceibal Y Marcelino Sosa 0, Jacinto Vera, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604117069",
+      "principal": {
+        "title": "Apartamento Alquiler Sin Gc 1dormitorio 1baño La Figurita",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604117069-apartamento-alquiler-sin-gc-1dormitorio-1bano-la-figurita-_JM"
+      },
+      "location": {
+        "location": "Ceibal Y Marcelino Sosa 0000, La Figurita, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1 UYU",
+        "pricecurrency": "$",
+        "price": "18.000"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Interno",
+
+        "orientacion": "Norte",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604179910",
+      "principal": {
+        "title": "Oportunidad En Pocitos! Se Alquila Ya!!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604179910-oportunidad-en-pocitos-se-alquila-ya-_JM"
+      },
+      "location": {
+        "location": "Av. Brasil Y Subillaga 0000, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2800 UYU",
+        "pricecurrency": "$",
+        "price": "20.900"
+      },
+      "attributes": {
+        "superficietotal": "70 m²",
+        "superficie": "70 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604228597",
+      "principal": {
+        "title": "Apartamento De 1 Dormitorio En Parque Rodó",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604228597-apartamento-de-1-dormitorio-en-parque-rodo-_JM"
+      },
+      "location": {
+        "location": "Requena 1000, Parque Rodó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1500 UYU",
+        "pricecurrency": "$",
+        "price": "16.500"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "numerodepisodellaunidad": "1",
+        "admitemascotas": "Sí"
+      }
+    },
+    {
+      "id": "MLU604209406",
+      "principal": {
+        "title": "Lindo Al Frente De 1 Dorm. Sobre F. Crespo.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604209406-lindo-al-frente-de-1-dorm-sobre-f-crespo-_JM"
+      },
+      "location": {
+        "location": "Fernandez Crespo 2088, Aguada, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "1770 UYU",
+        "pricecurrency": "$",
+        "price": "15.300"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604156183",
+      "principal": {
+        "title": "Se Alquila Apartamento De 1 Dormitorio En Buceo",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604156183-se-alquila-apartamento-de-1-dormitorio-en-buceo-_JM"
+      },
+      "location": {
+        "location": "Estivao Sn 000, Buceo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "490 UYU",
+        "pricecurrency": "$",
+        "price": "15.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604166979",
+      "principal": {
+        "title": "Alquiler Apartamento La Comercial - Miguelete Ap.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604166979-alquiler-apartamento-la-comercial-miguelete-ap-_JM"
+      },
+      "location": {
+        "location": "Alquiler La Comercial - Monoambiente Reciclado - Miguelete Y J. Requena, La Comercial, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "13.500"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "25 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "tipo": "Departamento",
+
+        "antiguedad": "97 años"
+      }
+    },
+    {
+      "id": "MLU604222270",
+      "principal": {
+        "title": "Alquiler Apartamento Malvin Norte - Dobrich Apto.",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604222270-alquiler-apartamento-malvin-norte-dobrich-apto-_JM"
+      },
+      "location": {
+        "location": "Alquiler Dobrich E Hipolito Irigoyen., Malvin Norte, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "8.500"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "tipo": "Departamento",
+
+        "antiguedad": "71 años"
+      }
+    },
+    {
+      "id": "MLU604202724",
+      "principal": {
+        "title": "Apto. Hocquart: Living + Cocina+2 Dorm.+ Patio + Azotea",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604202724-apto-hocquart-living-cocina2-dorm-patio-azotea-_JM"
+      },
+      "location": {
+        "location": "Hocquart 2014, Centro, Montevideo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "25.000"
+      },
+      "attributes": {
+        "superficietotal": "95 m²",
+        "superficie": "60 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "numerodepisodellaunidad": "102",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "3",
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604154997",
+      "principal": {
+        "title": "Alquiler De Apto Final Libertadores",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154997-alquiler-de-apto-final-libertadores-_JM"
+      },
+      "location": {
+        "location": "Carabelas Esq El Iniciador 0, Atahualpa, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "6.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "disposicion": "Frente",
+
+        "admitemascotas": "No",
+
+        "cantidaddepisos": "1"
+      }
+    },
+    {
+      "id": "MLU604129482",
+      "principal": {
+        "title": "Apartamento 1dormitirio",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604129482-apartamento-1dormitirio-_JM"
+      },
+      "location": {
+        "location": "Carreras Nacionales 3689 3689, Ituzaingó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "11.900"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604103484",
+      "principal": {
+        "title": "Apartamento Para Alquilar 2 Dormitorios",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604103484-apartamento-para-alquilar-2-dormitorios-_JM"
+      },
+      "location": {
+        "location": "Carreras Nacionales 3689, Ituzaingó, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "12.900"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604175584",
+      "principal": {
+        "title": "Apto De 1 Dormitorio, Pocitos",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175584-apto-de-1-dormitorio-pocitos-_JM"
+      },
+      "location": {
+        "location": "P. Berro 874, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "22.500"
+      },
+      "attributes": {
+        "superficietotal": "40 m²",
+        "superficie": "40 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604235263",
+      "principal": {
+        "title": "Alquilo Amplio Monoambiente En Parque Batlle Opción Garage",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604235263-alquilo-amplio-monoambiente-en-parque-batlle-opcion-garage-_JM"
+      },
+      "location": {
+        "location": "Avda. Italia 2795, Parque Batlle, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": "2200 UYU",
+        "pricecurrency": "$",
+        "price": "22.000"
+      },
+      "attributes": {
+        "superficietotal": "43 m²",
+        "superficie": "43 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "disposicion": "Frente",
+        "antiguedad": "0 años",
+        "orientacion": "Sur",
+        "cocheras": "1",
+        "numerodepisodellaunidad": "101",
+        "admitemascotas": "No",
+        "apartamentosporpiso": "2",
+        "cantidaddepisos": "12"
+      }
+    },
+    {
+      "id": "MLU604135658",
+      "principal": {
+        "title": "Apartamento De 3 Dormitorios Prado!!",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604135658-apartamento-de-3-dormitorios-prado-_JM"
+      },
+      "location": {
+        "location": "Uruguayana Sn, Prado, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "22.500"
+      },
+      "attributes": {
+        "superficietotal": "250 m²",
+        "superficie": "68 m²",
+        "baños": "1",
+        "dormitorios": "3"
+      }
+    },
+    {
+      "id": "MLU604136029",
+      "principal": {
+        "title": "Final Sudamérica Y Copa Libertadores",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604136029-final-sudamerica-y-copa-libertadores-_JM"
+      },
+      "location": {
+        "location": "Pedro De La Sierra 3192, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "U$S",
+        "price": "500"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "1",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604175036",
+      "principal": {
+        "title": "Alquilo Dormitorio Para Final De Copa Americana Y Sudamerica",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604175036-alquilo-dormitorio-para-final-de-copa-americana-y-sudamerica-_JM"
+      },
+      "location": {
+        "location": "Guayaqui 3341, Pocitos, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "9.800"
+      },
+      "attributes": {
+        "superficietotal": "60 m²",
+        "superficie": "52 m²",
+        "baños": "1",
+        "dormitorios": "1"
+      }
+    },
+    {
+      "id": "MLU604154807",
+      "principal": {
+        "title": "Sin Gastos Comunes",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604154807-sin-gastos-comunes-_JM"
+      },
+      "location": {
+        "location": "Unión 1, Unión, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "16.000"
+      },
+      "attributes": {
+        "superficietotal": "50 m²",
+        "superficie": "50 m²",
+        "baños": "1",
+        "dormitorios": "2",
+
+        "admitemascotas": "No"
+      }
+    },
+    {
+      "id": "MLU604180019",
+      "principal": {
+        "title": "2 Dorm. Grandes Sin G.comunes A 1 Cuadra De Rambla",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604180019-2-dorm-grandes-sin-gcomunes-a-1-cuadra-de-rambla-_JM"
+      },
+      "location": {
+        "location": "Gutierrez Ruiz 2000, Palermo, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "13.500"
+      },
+      "attributes": {
+        "superficietotal": "55 m²",
+        "superficie": "55 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604116130",
+      "principal": {
+        "title": "Alquilo Apartamento En Malvin",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604116130-alquilo-apartamento-en-malvin-_JM"
+      },
+      "location": {
+        "location": "Hipólito Yrigoyen 1625, Malvin, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "22.000"
+      },
+      "attributes": {
+        "superficietotal": "80 m²",
+        "superficie": "80 m²",
+        "baños": "1",
+        "dormitorios": "2"
+      }
+    },
+    {
+      "id": "MLU604155710",
+      "principal": {
+        "title": "Cómodo Monoambiente",
+        "link": "https://apartamento.mercadolibre.com.uy/MLU-604155710-comodo-monoambiente-_JM"
+      },
+      "location": {
+        "location": "Santa Ana 4158, Cerrito, Montevideo",
+        "calle": null,
+        "barrio": null,
+        "ciudad": null
+      },
+      "price": {
+        "gastoscomunes": null,
+        "pricecurrency": "$",
+        "price": "10.800"
+      },
+      "attributes": {
+        "superficietotal": "30 m²",
+        "superficie": "30 m²",
+        "baños": "1",
+        "dormitorios": null
+      }
+    }
+  ]
+}

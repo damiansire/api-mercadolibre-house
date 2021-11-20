@@ -1,6 +1,8 @@
-var express = require("express");
-var cors = require("cors");
-var app = express();
+const fs = require("fs");
+const express = require("express");
+const cors = require("cors");
+const app = express();
+const path = require("path");
 
 require("dotenv").config();
 
@@ -17,8 +19,19 @@ const config = {
   },
 };
 
+//TODO: Traer esto de la base de datos
+const imgRoute = path.resolve("testData", "imagenes.json");
+const viviendaRoute = path.resolve("testData", "viviendas.json");
+
+let imagenesFile = fs.readFileSync(imgRoute);
+let viviendasFile = fs.readFileSync(viviendaRoute);
+
+const imagenes = JSON.parse(imagenesFile);
+const viviendas = JSON.parse(viviendasFile);
+
 app.use(cors());
 
+//Todo dividir las rutas y usar mids
 app.get("/houses/today", async function (req, res) {
   try {
     const client = new Client(config);
@@ -34,7 +47,11 @@ app.get("/houses/today", async function (req, res) {
   }
 });
 
-app.get("/houses/img/:id", async function (req, res) {
+//Todo add async
+app.get("/houses/img/:id", function (req, res) {
+  const viviendaId = req.params.id;
+  res.send(imagenes.imagenes.filter((img) => img.viviendaid === viviendaId));
+  /*
   try {
     const client = new Client(config);
     client.connect();
@@ -46,6 +63,11 @@ app.get("/houses/img/:id", async function (req, res) {
   } catch {
     res.send([]);
   }
+  */
+});
+
+app.get("/news", function (req, res) {
+  res.send(viviendas);
 });
 
 app.listen(3001, function () {
