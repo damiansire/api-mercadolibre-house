@@ -67,9 +67,9 @@ app.get("/like/:apartamentId", async function (req, res) {
   try {
     const viviendaId = req.params.apartamentId;
     await saveHouseStatus(viviendaId, 1);
-    res.send(response);
+    res.send(true);
   } catch {
-    res.send([]);
+    res.send(false);
   }
 });
 
