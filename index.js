@@ -55,7 +55,6 @@ app.get("/news", async function (req, res) {
     client.connect();
     const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
     const { rows } = await client.query(getElementQuery);
-    debugger;
     let response = rows.map((row) => convertToHousesJson(row));
     res.send(response);
   } catch {
@@ -90,12 +89,13 @@ function convertToHousesJson(apartaments) {
     const customAttributesKeys = getCustomAttributesKeys(respuestaBaseDeDatos);
     let customAttributesObj = {};
     for (const key of customAttributesKeys) {
-      customAttributesObj[key] = respuestaBaseDeDatos[key];
+      if (respuestaBaseDeDatos[key] != null) {
+        customAttributesObj[key] = respuestaBaseDeDatos[key];
+      }
     }
     return customAttributesObj;
   };
 
-  debugger;
   return {
     id: apartaments.id,
     principal: {
