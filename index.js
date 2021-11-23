@@ -19,16 +19,6 @@ const config = {
   },
 };
 
-//TODO: Traer esto de la base de datos
-const imgRoute = path.resolve("testData", "imagenes.json");
-const viviendaRoute = path.resolve("testData", "viviendas.json");
-
-let imagenesFile = fs.readFileSync(imgRoute);
-let viviendasFile = fs.readFileSync(viviendaRoute);
-
-const imagenes = JSON.parse(imagenesFile);
-const viviendas = JSON.parse(viviendasFile);
-
 app.use(cors());
 
 //Todo dividir las rutas y usar mids
@@ -38,9 +28,6 @@ app.get("/houses/today", async function (req, res) {
     client.connect();
     const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
     const { rows } = await client.query(getElementQuery);
-
-    const getImageQuery = ` select * from public.imagenes as i where i.viviendaid = 'https://apartamento.mercadolibre.com.uy/MLU-604088353-alquiler-apartamento-punta-carretas-reciclado-amplio-1-dorm-_JM'`;
-
     res.send(rows);
   } catch {
     res.send([]);
@@ -48,10 +35,7 @@ app.get("/houses/today", async function (req, res) {
 });
 
 //Todo add async
-app.get("/houses/img/:id", function (req, res) {
-  const viviendaId = req.params.id;
-  res.send(imagenes.imagenes.filter((img) => img.viviendaid === viviendaId));
-  /*
+app.get("/houses/img/:id", async function (req, res) {
   try {
     const client = new Client(config);
     client.connect();
@@ -63,13 +47,93 @@ app.get("/houses/img/:id", function (req, res) {
   } catch {
     res.send([]);
   }
-  */
 });
 
-app.get("/news", function (req, res) {
-  res.send(viviendas);
+app.get("/news", async function (req, res) {
+  try {
+    const client = new Client(config);
+    client.connect();
+    const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
+    const { rows } = await client.query(getElementQuery);
+    debugger;
+    let response = rows.map((row) => convertToHousesJson(row));
+    res.send(response);
+  } catch {
+    res.send([]);
+  }
 });
 
 app.listen(3001, function () {
   console.log("CORS-enabled web server listening on port 3001");
 });
+
+function convertToHousesJson(apartaments) {
+  const getCustomAttributesKeys = (apartamentDao) => {
+    const normalAttribute = [
+      "id",
+      "title",
+      "link",
+      "calle",
+      "barrio",
+      "ciudad",
+      "gastoscomunes",
+      "pricecurrency",
+      "price",
+    ];
+
+    return Object.keys(apartamentDao).filter(
+      (attribute) => !normalAttribute.includes(attribute)
+    );
+  };
+
+  const getCustomAttributes = (respuestaBaseDeDatos) => {
+    const customAttributesKeys = getCustomAttributesKeys(respuestaBaseDeDatos);
+    let customAttributesObj = {};
+    for (const key of customAttributesKeys) {
+      customAttributesObj[key] = respuestaBaseDeDatos[key];
+    }
+    return customAttributesObj;
+  };
+
+  debugger;
+  return {
+    id: apartaments.id,
+    principal: {
+      title: apartaments.title,
+      link: apartaments.link,
+    },
+    location: {
+      calle: apartaments.calle,
+      barrio: apartaments.barrio,
+      ciudad: apartaments.ciudad,
+    },
+    price: {
+      gastoscomunes: apartaments.gastoscomunes,
+      pricecurrency: apartaments.pricecurrency,
+      price: apartaments.price,
+    },
+    attributes: getCustomAttributes(apartaments),
+  };
+}
+
+/*
+const respuestaBaseDeDatos = {
+  id: "MLU604128144",
+  title: "Alquiler Apartamento 1 Dormitorio Cordón Sur Montevideo E",
+  link: "https://apartamento.mercadolibre.com.uy/MLU-604128144-alquiler-apartamento-1-dormitorio-cordon-sur-montevideo-e-_JM",
+  calle: "Cassinoni 1200",
+  barrio: "Parque Rodó",
+  ciudad: "Montevideo",
+  gastoscomunes: "1300 UYU",
+  pricecurrency: "$",
+  price: "16.000",
+  superficietotal: "43 m²",
+  superficie: "43 m²",
+  baños: "1",
+  dormitorios: "1",
+  disposicion: "Contrafrente",
+  orientacion: "Oeste",
+  numerodepisodellaunidad: "1",
+  admitemascotas: "Sí",
+};
+*/
