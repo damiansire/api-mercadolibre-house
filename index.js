@@ -115,25 +115,3 @@ function convertToHousesJson(apartaments) {
     attributes: getCustomAttributes(apartaments),
   };
 }
-
-/*
-const respuestaBaseDeDatos = {
-  id: "MLU604128144",
-  title: "Alquiler Apartamento 1 Dormitorio Cordón Sur Montevideo E",
-  link: "https://apartamento.mercadolibre.com.uy/MLU-604128144-alquiler-apartamento-1-dormitorio-cordon-sur-montevideo-e-_JM",
-  calle: "Cassinoni 1200",
-  barrio: "Parque Rodó",
-  ciudad: "Montevideo",
-  gastoscomunes: "1300 UYU",
-  pricecurrency: "$",
-  price: "16.000",
-  superficietotal: "43 m²",
-  superficie: "43 m²",
-  baños: "1",
-  dormitorios: "1",
-  disposicion: "Contrafrente",
-  orientacion: "Oeste",
-  numerodepisodellaunidad: "1",
-  admitemascotas: "Sí",
-};
-*/
