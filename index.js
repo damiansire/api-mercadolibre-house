@@ -49,16 +49,37 @@ app.get("/houses/img/:id", async function (req, res) {
   }
 });
 
-app.get("/news", async function (req, res) {
+//No esta adaptado para mas de un usuario todavia
+app.get("/houses/news", async function (req, res) {
   try {
     const client = new Client(config);
     client.connect();
-    const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
+    const getElementQuery = `SELECT * FROM public.viviendas AS v where v.id NOT IN (select viviendaid from estado) limit 20`;
     const { rows } = await client.query(getElementQuery);
     let response = rows.map((row) => convertToHousesJson(row));
     res.send(response);
   } catch {
     res.send([]);
+  }
+});
+
+app.get("/like/:apartamentId", async function (req, res) {
+  try {
+    const viviendaId = req.params.apartamentId;
+    await saveHouseStatus(viviendaId, 1);
+    res.send(response);
+  } catch {
+    res.send([]);
+  }
+});
+
+app.get("/dislike/:apartamentId", async function (req, res) {
+  try {
+    const viviendaId = req.params.apartamentId;
+    await saveHouseStatus(viviendaId, 0);
+    res.send(true);
+  } catch {
+    res.send(false);
   }
 });
 
@@ -114,4 +135,19 @@ function convertToHousesJson(apartaments) {
     },
     attributes: getCustomAttributes(apartaments),
   };
+}
+
+// 0 = dislike, 1 = like
+async function saveHouseStatus(houseId, state) {
+  try {
+    const client = new Client(config);
+    client.connect();
+    const values = [houseId, state, "damiansire"];
+    const query = `INSERT INTO public.estado (viviendaid, estado, userid) VALUES($1, $2, $3) RETURNING *;`;
+    const res = await client.query(query, values);
+    console.log("No ha fallado", res);
+  } catch (err) {
+    console.error(`${err.name} : ${err.message}`);
+    throw new Error(`Problemas con el apartamento: ${apartamentData.link}`);
+  }
 }
