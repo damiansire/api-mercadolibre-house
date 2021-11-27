@@ -3,10 +3,8 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const path = require("path");
-
 require("dotenv").config();
-
-const { Client } = require("pg");
+const { Pool } = require("pg");
 
 const config = {
   user: process.env.PGUSER,
@@ -19,15 +17,17 @@ const config = {
   },
 };
 
+const pool = new Pool(config);
+
 app.use(cors());
 
 //Todo dividir las rutas y usar mids
 app.get("/houses/today", async function (req, res) {
   try {
-    const client = new Client(config);
-    client.connect();
+    const client = await pool.connect();
     const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
     const { rows } = await client.query(getElementQuery);
+    client.release();
     res.send(rows);
   } catch {
     res.send([]);
@@ -37,12 +37,12 @@ app.get("/houses/today", async function (req, res) {
 //Todo add async
 app.get("/houses/img/:id", async function (req, res) {
   try {
-    const client = new Client(config);
-    client.connect();
+    const client = await pool.connect();
     const viviendaId = req.params.id;
     //Ojo con la inyeccion sql
     const getImagesQuery = `select * from public.imagenes i where i.viviendaid = '${viviendaId}'`;
     const { rows } = await client.query(getImagesQuery);
+    client.release();
     res.send(rows);
   } catch {
     res.send([]);
@@ -52,11 +52,11 @@ app.get("/houses/img/:id", async function (req, res) {
 //No esta adaptado para mas de un usuario todavia
 app.get("/houses/news", async function (req, res) {
   try {
-    const client = new Client(config);
-    client.connect();
+    const client = await pool.connect();
     const getElementQuery = `SELECT * FROM public.viviendas AS v where v.id NOT IN (select viviendaid from estado) limit 20`;
     const { rows } = await client.query(getElementQuery);
     let response = rows.map((row) => convertToHousesJson(row));
+    client.release();
     res.send(response);
   } catch {
     res.send([]);
@@ -140,7 +140,7 @@ function convertToHousesJson(apartaments) {
 // 0 = dislike, 1 = like
 async function saveHouseStatus(houseId, state) {
   try {
-    const client = new Client(config);
+    const client = await pool.connect();
     client.connect();
     const values = [houseId, state, "damiansire"];
     const query = `INSERT INTO public.estado (viviendaid, estado, userid) VALUES($1, $2, $3) RETURNING *;`;
