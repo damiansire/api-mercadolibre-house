@@ -24,10 +24,8 @@ app.use(cors());
 //Todo dividir las rutas y usar mids
 app.get("/houses/today", async function (req, res) {
   try {
-    const client = await pool.connect();
     const getElementQuery = `SELECT * FROM public.viviendas limit 20`;
-    const { rows } = await client.query(getElementQuery);
-    client.release();
+    const { rows } = await pool.query(getElementQuery);
     res.send(rows);
   } catch {
     res.send([]);
@@ -37,12 +35,10 @@ app.get("/houses/today", async function (req, res) {
 //Todo add async
 app.get("/houses/img/:id", async function (req, res) {
   try {
-    const client = await pool.connect();
     const viviendaId = req.params.id;
     //Ojo con la inyeccion sql
     const getImagesQuery = `select * from public.imagenes i where i.viviendaid = '${viviendaId}'`;
-    const { rows } = await client.query(getImagesQuery);
-    client.release();
+    const { rows } = await pool.query(getImagesQuery);
     res.send(rows);
   } catch {
     res.send([]);
@@ -52,11 +48,9 @@ app.get("/houses/img/:id", async function (req, res) {
 //No esta adaptado para mas de un usuario todavia
 app.get("/houses/news", async function (req, res) {
   try {
-    const client = await pool.connect();
     const getElementQuery = `SELECT * FROM public.viviendas AS v where v.id NOT IN (select viviendaid from estado) limit 20`;
-    const { rows } = await client.query(getElementQuery);
+    const { rows } = await pool.query(getElementQuery);
     let response = rows.map((row) => convertToHousesJson(row));
-    client.release();
     res.send(response);
   } catch {
     res.send([]);
@@ -70,6 +64,7 @@ app.get("/like/:apartamentId", async function (req, res) {
     res.send(true);
   } catch {
     res.send(false);
+  } finally {
   }
 });
 
@@ -80,6 +75,7 @@ app.get("/dislike/:apartamentId", async function (req, res) {
     res.send(true);
   } catch {
     res.send(false);
+  } finally {
   }
 });
 
@@ -128,9 +124,9 @@ function convertToHousesJson(apartaments) {
       barrio: apartaments.barrio,
       ciudad: apartaments.ciudad,
     },
-    price: {
+    expenses: {
       gastoscomunes: apartaments.gastoscomunes,
-      pricecurrency: apartaments.pricecurrency,
+      currency: apartaments.pricecurrency,
       price: apartaments.price,
     },
     attributes: getCustomAttributes(apartaments),
@@ -140,12 +136,10 @@ function convertToHousesJson(apartaments) {
 // 0 = dislike, 1 = like
 async function saveHouseStatus(houseId, state) {
   try {
-    const client = await pool.connect();
-    client.connect();
     const values = [houseId, state, "damiansire"];
     const query = `INSERT INTO public.estado (viviendaid, estado, userid) VALUES($1, $2, $3) RETURNING *;`;
-    const res = await client.query(query, values);
-    console.log("No ha fallado", res);
+    const res = await pool.query(query, values);
+    console.log("Ha funcionado correctamente");
   } catch (err) {
     console.error(`${err.name} : ${err.message}`);
     throw new Error(`Problemas con el apartamento: ${apartamentData.link}`);
