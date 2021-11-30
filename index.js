@@ -21,6 +21,32 @@ const pool = new Pool(config);
 
 app.use(cors());
 
+app.get("/houses/filters", function (req, res) {
+  const filters = [
+    { name: "superficietotal", type: "Number" },
+    { name: "superficie", type: "Number" },
+    { name: "baños", type: "Number" },
+    { name: "dormitorios", type: "Number" },
+    { name: "ambientes", type: "Number" },
+    { name: "tipo", type: "Number" },
+    { name: "calle", type: "Number" },
+    { name: "barrio", type: "Number" },
+    { name: "ciudad", type: "Number" },
+    { name: "gastoscomunes", type: "Number" },
+    { name: "disposicion", type: "Number" },
+    { name: "antiguedad", type: "Number" },
+    { name: "orientacion", type: "Number" },
+    { name: "cocheras", type: "Number" },
+    { name: "numerodepisodellaunidad", type: "Number" },
+    { name: "admitemascotas", type: "Number" },
+    { name: "apartamentosporpiso", type: "Number" },
+    { name: "cantidaddepisos", type: "Number" },
+    { name: "bodegas", type: "Number" },
+  ];
+
+  res.send(filters);
+});
+
 //Todo dividir las rutas y usar mids
 app.get("/houses/today", async function (req, res) {
   try {
